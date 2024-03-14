@@ -1,0 +1,9 @@
+watermark
+tqdm
+pandas
+numpy
+setuptools
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
